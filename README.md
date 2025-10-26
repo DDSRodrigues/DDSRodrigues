@@ -40,7 +40,7 @@
     />
 </a>
 
-<a href="www.linkedin.com/in/douglas-rodrigues-2b345990">
+<a href="https://www.linkedin.com/in/douglas-rodrigues-2b345990">
     <img 
         align="left"
         title="LinkedIn"
