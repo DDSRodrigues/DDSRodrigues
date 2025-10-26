@@ -55,10 +55,10 @@
 <br/>  
 <!-- Informação Pessoal --->
 
-Manutenção|Projetos|Fullstack|Python|Analytics|Data
+Manutenção|Projetos|Fullstack|Python|Analytics|Data|LSS Green Belt  
 
 34 Anos  
 São José dos Campos - São Paulo - BR  
 Estudando FullStack em Dados & Analytics  
 Formado em Engenharia Elétrica  
-Experiência em Manutenção Industrial  
+
