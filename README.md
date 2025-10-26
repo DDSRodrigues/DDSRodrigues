@@ -1,12 +1,6 @@
 # Douglas Rodrigues 😎
 
-🧑‍💻 Estudante FullStack em Engenharia e Ciência de dados  
-⚡ Formação em Engenharia Elétrica  
-📨 douglas.santos.rodrigues@hotmail.com | ddsr.sjc@gmail.com  
-👨🏻 [Instagram](https://www.instagram.com/douglas.santos.rodrigues_?igsh=b3RyZGx5bWdicHdw)  
-🧑🏻‍💼 [LinkedIn](www.linkedin.com/in/douglas-rodrigues-2b345990)  
-
-
+<!-- Redes Sociais --->
 </a>
 <a href=mailto:ddsr.sjc@gmail.com>
     <img 
@@ -56,22 +50,15 @@
         alt="LinkedIn"
         style="padding-right: 30 px;"
     />
-</a>
+</a><br/>  
+<br/>  
+<br/>  
+<!-- Informação Pessoal --->
 
+Manutenção|Projetos|Fullstack|Python|Analytics|Data
 
-
-
-<!--
-**DDSRodrigues/DDSRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+34 Anos  
+São José dos Campos - São Paulo - BR  
+Estudando FullStack em Dados & Analytics  
+Formado em Engenharia Elétrica  
+Experiência em Manutenção Industrial  
