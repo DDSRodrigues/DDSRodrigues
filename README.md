@@ -7,6 +7,19 @@
 🧑🏻‍💼 [LinkedIn](www.linkedin.com/in/douglas-rodrigues-2b345990)  
 
 
+</a>
+<a href="ddsr.sjc@gmail.com">
+    <img 
+        align="left"
+        title="ddsr.sjc@gmail.com"
+        width="48" 
+        height="48" 
+        src="https://img.icons8.com/color/48/gmail-new.png" 
+        alt="gmail"
+        style="padding-right: 30 px;"
+    />
+</a>
+
 
 
 
